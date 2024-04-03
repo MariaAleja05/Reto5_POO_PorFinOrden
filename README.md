@@ -4,7 +4,7 @@
 
 **1.** Módulo único dentro del paquete
 
-* Mirar carpeta
+* Mirar carpeta Reto_5a
 
 ```
 Reto_5a/
@@ -283,7 +283,7 @@ if __name__ == "__main__":
 
 **2.** Modulos individuales
 
-* Mirar carpeta
+* Mirar carpeta Reto_5b
 
 ```
 Reto_5b/
